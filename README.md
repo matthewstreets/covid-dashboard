@@ -12,6 +12,6 @@ Initially, the outdated data will be graphed. Once a user refreshes the data, th
 
 The contents of this repository will only be made public after 16:00 on Friday, 2 December, 2022.
 
-The "Launch Binder" link below will not work until the repository is set to "Public". 
+To launch a JupyterHub instance of this repository, click the link below:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthewstreets/covid19-dashboard/HEAD)
